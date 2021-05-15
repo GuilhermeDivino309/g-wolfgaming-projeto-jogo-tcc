@@ -1,0 +1,1 @@
+dano = false; //constata o estado do dano

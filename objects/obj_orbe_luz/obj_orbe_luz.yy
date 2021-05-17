@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "cenarios",
-    "path": "folders/Objects/cenarios.yy",
+    "name": "cenario",
+    "path": "folders/Objects/cenario.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_orbe_luz",

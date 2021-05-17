@@ -2,7 +2,7 @@
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-  "origin": 4,
+  "origin": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2f7edee1-e0a9-4363-8541-68e90ef925d2","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2f7edee1-e0a9-4363-8541-68e90ef925d2","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"LayerId":{"name":"08cfc756-96b5-4684-a771-0e1301e95535","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_parede_comodo","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"resourceVersion":"1.0","name":"2f7edee1-e0a9-4363-8541-68e90ef925d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b283107-3ccd-43f9-be2b-ddf59290f66c","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b283107-3ccd-43f9-be2b-ddf59290f66c","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"LayerId":{"name":"5cc28e75-1c57-41fc-9135-2430db57c7ef","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_parede_comodo","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"resourceVersion":"1.0","name":"6b283107-3ccd-43f9-be2b-ddf59290f66c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_parede_comodo","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"342f733c-dafd-4c88-a44b-0d217f016b1b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2f7edee1-e0a9-4363-8541-68e90ef925d2","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f7752e41-e1a8-448e-9a58-f112e4174341","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b283107-3ccd-43f9-be2b-ddf59290f66c","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 8,
-    "yorigin": 8,
+    "xorigin": 0,
+    "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_parede_comodo","path":"sprites/spr_parede_comodo/spr_parede_comodo.yy",},
@@ -65,12 +65,12 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"08cfc756-96b5-4684-a771-0e1301e95535","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5cc28e75-1c57-41fc-9135-2430db57c7ef","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenarios",
-    "path": "folders/Sprites/cenarios.yy",
+    "name": "cenario",
+    "path": "folders/Sprites/cenario.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_parede_comodo",

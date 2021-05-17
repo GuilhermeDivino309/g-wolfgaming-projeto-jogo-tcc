@@ -11,9 +11,9 @@ right = keyboard_check(ord("D"))
 velh = (right - left) * vel; //soma colisao horizontal
 velv = (down - up) * vel; //soma colisao vertical
 
-if (place_meeting(x + velh, y, obj_parede_1)) // definindo colisao horizontal
+if (place_meeting(x + velh, y, obj_parede)) // definindo colisao horizontal
 {
-	while(!place_meeting(x + sign(velh), y, obj_parede_1))
+	while(!place_meeting(x + sign(velh), y, obj_parede))
 	{
 		x += sign(velh)
 	}
@@ -21,29 +21,9 @@ if (place_meeting(x + velh, y, obj_parede_1)) // definindo colisao horizontal
 	
 }
 
-if (place_meeting(x + velh, y, obj_parede_comodo)) // definindo colisao horizontal
+if (place_meeting(x , y + velv, obj_parede)) // definindo colisao vertical
 {
-	while(!place_meeting(x + sign(velh), y, obj_parede_comodo))
-	{
-		x += sign(velh)
-	}
-	velh = 0;
-	
-}
-
-if (place_meeting(x , y + velv, obj_parede_1)) // definindo colisao vertical
-{
-	while(!place_meeting(x , y + sign(velv), obj_parede_1))
-	{
-		y += sign(velv)
-	}
-	velv = 0;
-	
-}
-
-if (place_meeting(x , y + velv, obj_parede_comodo)) // definindo colisao vertical
-{
-	while(!place_meeting(x , y + sign(velv), obj_parede_comodo))
+	while(!place_meeting(x , y + sign(velv), obj_parede))
 	{
 		y += sign(velv)
 	}

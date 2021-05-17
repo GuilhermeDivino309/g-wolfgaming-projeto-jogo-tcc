@@ -2,7 +2,7 @@
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-  "origin": 4,
+  "origin": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3570c3d9-dadc-4bcc-b544-c614f2c8f092","path":"sprites/spr_mesa/spr_mesa.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3570c3d9-dadc-4bcc-b544-c614f2c8f092","path":"sprites/spr_mesa/spr_mesa.yy",},"LayerId":{"name":"707fb55d-e363-48d5-8835-e1f443003ae4","path":"sprites/spr_mesa/spr_mesa.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},"resourceVersion":"1.0","name":"3570c3d9-dadc-4bcc-b544-c614f2c8f092","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3d396902-e7c0-408f-8bd8-c20870e1138c","path":"sprites/spr_mesa/spr_mesa.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3d396902-e7c0-408f-8bd8-c20870e1138c","path":"sprites/spr_mesa/spr_mesa.yy",},"LayerId":{"name":"f0effe23-e558-4c3f-b022-6be5f03b7629","path":"sprites/spr_mesa/spr_mesa.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},"resourceVersion":"1.0","name":"3d396902-e7c0-408f-8bd8-c20870e1138c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"d1f6abcf-ec7a-46c7-9043-80470f5804ab","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3570c3d9-dadc-4bcc-b544-c614f2c8f092","path":"sprites/spr_mesa/spr_mesa.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bc76c52a-b319-44fc-ad31-152aa5254d30","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d396902-e7c0-408f-8bd8-c20870e1138c","path":"sprites/spr_mesa/spr_mesa.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 10,
-    "yorigin": 10,
+    "xorigin": 0,
+    "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},
@@ -65,12 +65,12 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"707fb55d-e363-48d5-8835-e1f443003ae4","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f0effe23-e558-4c3f-b022-6be5f03b7629","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenarios",
-    "path": "folders/Sprites/cenarios.yy",
+    "name": "cenario",
+    "path": "folders/Sprites/cenario.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_mesa",

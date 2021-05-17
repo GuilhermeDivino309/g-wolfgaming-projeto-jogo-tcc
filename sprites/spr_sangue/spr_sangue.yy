@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f736e261-7cbb-4074-9a69-18d30d723ca8","path":"sprites/spr_sangue/spr_sangue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f736e261-7cbb-4074-9a69-18d30d723ca8","path":"sprites/spr_sangue/spr_sangue.yy",},"LayerId":{"name":"8201328e-9846-40a7-84d9-3283727912a7","path":"sprites/spr_sangue/spr_sangue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_sangue","path":"sprites/spr_sangue/spr_sangue.yy",},"resourceVersion":"1.0","name":"f736e261-7cbb-4074-9a69-18d30d723ca8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04f8b0d9-224a-4fa2-96f0-c512ea2fb235","path":"sprites/spr_sangue/spr_sangue.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04f8b0d9-224a-4fa2-96f0-c512ea2fb235","path":"sprites/spr_sangue/spr_sangue.yy",},"LayerId":{"name":"db675be4-cfda-4ec6-b662-35d1851d1b0d","path":"sprites/spr_sangue/spr_sangue.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_sangue","path":"sprites/spr_sangue/spr_sangue.yy",},"resourceVersion":"1.0","name":"04f8b0d9-224a-4fa2-96f0-c512ea2fb235","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_sangue","path":"sprites/spr_sangue/spr_sangue.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7675f925-7e63-471e-a4d1-47212521af84","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f736e261-7cbb-4074-9a69-18d30d723ca8","path":"sprites/spr_sangue/spr_sangue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"91c49f58-d3ea-4892-b915-3498024e5d9d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04f8b0d9-224a-4fa2-96f0-c512ea2fb235","path":"sprites/spr_sangue/spr_sangue.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,12 +65,12 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8201328e-9846-40a7-84d9-3283727912a7","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"db675be4-cfda-4ec6-b662-35d1851d1b0d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenarios",
-    "path": "folders/Sprites/cenarios.yy",
+    "name": "cenario",
+    "path": "folders/Sprites/cenario.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_sangue",

@@ -1,3 +1,3 @@
-if(place_meeting(x, y, obj_parede_1)){
+if(place_meeting(x, y, obj_parede)){
 	instance_destroy();
 }

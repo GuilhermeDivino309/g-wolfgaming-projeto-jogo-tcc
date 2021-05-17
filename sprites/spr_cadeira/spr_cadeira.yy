@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"44881b4f-8a7a-4e28-a32f-cd31af2bf7b0","path":"sprites/spr_cadeira/spr_cadeira.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"44881b4f-8a7a-4e28-a32f-cd31af2bf7b0","path":"sprites/spr_cadeira/spr_cadeira.yy",},"LayerId":{"name":"489edbc3-1288-4ca1-b02c-6d8d5ce892df","path":"sprites/spr_cadeira/spr_cadeira.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_cadeira","path":"sprites/spr_cadeira/spr_cadeira.yy",},"resourceVersion":"1.0","name":"44881b4f-8a7a-4e28-a32f-cd31af2bf7b0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"33bc9b7f-c952-476c-a488-cb3a8af1bcbe","path":"sprites/spr_cadeira/spr_cadeira.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"33bc9b7f-c952-476c-a488-cb3a8af1bcbe","path":"sprites/spr_cadeira/spr_cadeira.yy",},"LayerId":{"name":"525312cc-4f29-491a-8ed6-81b0d484fd74","path":"sprites/spr_cadeira/spr_cadeira.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_cadeira","path":"sprites/spr_cadeira/spr_cadeira.yy",},"resourceVersion":"1.0","name":"33bc9b7f-c952-476c-a488-cb3a8af1bcbe","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_cadeira","path":"sprites/spr_cadeira/spr_cadeira.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6f008493-d668-4017-a83e-679b1c23b8db","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"44881b4f-8a7a-4e28-a32f-cd31af2bf7b0","path":"sprites/spr_cadeira/spr_cadeira.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"586eddf5-e87b-47db-b1a1-0bdbb4f457d6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"33bc9b7f-c952-476c-a488-cb3a8af1bcbe","path":"sprites/spr_cadeira/spr_cadeira.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,12 +65,12 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"489edbc3-1288-4ca1-b02c-6d8d5ce892df","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"525312cc-4f29-491a-8ed6-81b0d484fd74","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenarios",
-    "path": "folders/Sprites/cenarios.yy",
+    "name": "cenario",
+    "path": "folders/Sprites/cenario.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_cadeira",

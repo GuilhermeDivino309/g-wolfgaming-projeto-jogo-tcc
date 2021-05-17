@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 15,
-  "bbox_top": 0,
-  "bbox_bottom": 127,
+  "bbox_right": 111,
+  "bbox_top": 1,
+  "bbox_bottom": 191,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 16,
-  "height": 128,
+  "width": 112,
+  "height": 192,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d8bb6702-8350-44c4-9f66-7c5a2c897c25","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d8bb6702-8350-44c4-9f66-7c5a2c897c25","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},"LayerId":{"name":"5db47426-2f06-4305-b161-4ae03ed9f393","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_parede_cabana","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},"resourceVersion":"1.0","name":"d8bb6702-8350-44c4-9f66-7c5a2c897c25","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c22089e5-54d0-4555-9794-4a5f03ee66ae","path":"sprites/Sprite16/Sprite16.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c22089e5-54d0-4555-9794-4a5f03ee66ae","path":"sprites/Sprite16/Sprite16.yy",},"LayerId":{"name":"da465019-c66d-4faf-8e9c-dbee033fc5fd","path":"sprites/Sprite16/Sprite16.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"resourceVersion":"1.0","name":"c22089e5-54d0-4555-9794-4a5f03ee66ae","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_parede_cabana","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},
+    "spriteId": {"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e8ac3ba0-98d2-4704-bbd8-3248d549e3f0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8bb6702-8350-44c4-9f66-7c5a2c897c25","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1622cb46-21f5-4d3b-9b64-28d157ee586e","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c22089e5-54d0-4555-9794-4a5f03ee66ae","path":"sprites/Sprite16/Sprite16.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_parede_cabana","path":"sprites/spr_parede_cabana/spr_parede_cabana.yy",},
+    "parent": {"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_parede_cabana",
+    "name": "Sprite16",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5db47426-2f06-4305-b161-4ae03ed9f393","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"da465019-c66d-4faf-8e9c-dbee033fc5fd","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/cenarios.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_parede_cabana",
+  "name": "Sprite16",
   "tags": [],
   "resourceType": "GMSprite",
 }

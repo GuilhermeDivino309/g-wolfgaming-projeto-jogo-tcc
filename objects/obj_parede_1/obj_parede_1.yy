@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "spr_parede_cabana",
-    "path": "sprites/spr_parede_cabana/spr_parede_cabana.yy",
+    "name": "spr_parede",
+    "path": "sprites/spr_parede/spr_parede.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

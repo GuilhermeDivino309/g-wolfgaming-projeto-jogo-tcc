@@ -3,7 +3,7 @@
     "name": "spr_chao_2",
     "path": "sprites/spr_chao_2/spr_chao_2.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

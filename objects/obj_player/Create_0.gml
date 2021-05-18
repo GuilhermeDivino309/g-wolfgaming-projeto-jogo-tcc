@@ -11,8 +11,8 @@ usa_arma = function()
 //posição da arma
 	_dir = point_direction(x, y, mouse_x, mouse_y);
 
-	var _x = x + lengthdir_x(sprite_width / 5, _dir);
-	var _y = y + lengthdir_y(sprite_height / 5, _dir);
+	var _x = x + lengthdir_x(sprite_width / 7, _dir);
+	var _y = y + lengthdir_y(sprite_height / 7, _dir);
 		
 //carregando a arma com o player
 	arma.x = _x;

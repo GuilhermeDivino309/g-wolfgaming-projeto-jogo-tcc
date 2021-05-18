@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_colisao",
-    "path": "sprites/spr_colisao/spr_colisao.yy",
+    "name": "spr_boss",
+    "path": "sprites/spr_boss/spr_boss.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_inimigos",
+    "path": "objects/obj_inimigos/obj_inimigos.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,18 +26,16 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bala_ini","path":"objects/obj_bala_ini/obj_bala_ini.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "inimigos",
+    "path": "folders/Objects/inimigos.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_colisao",
+  "name": "obj_boss",
   "tags": [],
   "resourceType": "GMObject",
 }

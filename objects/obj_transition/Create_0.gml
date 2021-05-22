@@ -1,2 +1,1 @@
-var targetRoom, targetX, targetY;
 

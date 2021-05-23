@@ -35,7 +35,7 @@ x += velh;
 y += velv;
                                
 if(life <=0){   // recomeça o jogo quando a vida é reduzida a zero
-	room_restart();
+	game_restart();
 }
 
 if(place_meeting(x, y, obj_inimigos)){ //aplicando o dano

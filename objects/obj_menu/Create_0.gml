@@ -6,7 +6,7 @@ button_h = 32;
 
 #region botões do menu
 button[0] = "New Game"
-button[1] = "Load Game"
+button[1] = "Fases"
 button[2] = "Site"
 button[3] = "Exit"
 buttons = array_length(button);

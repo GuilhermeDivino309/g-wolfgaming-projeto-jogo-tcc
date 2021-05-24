@@ -26,9 +26,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1536.0,"y":1795.75,"resourceVersion":"1.0","name":"inst_77FBFCDB","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":-1,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":99,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"inimigo2","tags":[],"resourceType":"GMRInstanceLayer",},
-    {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_inimigo_boss","path":"objects/obj_inimigo_boss/obj_inimigo_boss.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1428.5,"y":528.0,"resourceVersion":"1.0","name":"inst_3B377ECB","tags":[],"resourceType":"GMRInstance",},
-      ],"visible":true,"depth":199,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"inimigos","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[],"visible":true,"depth":199,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"inimigos","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":null,"x":0,"y":0,"tiles":{"SerialiseWidth":0,"SerialiseHeight":0,"TileSerialiseData":[
 ],},"visible":true,"depth":299,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Tiles_1","tags":[],"resourceType":"GMRTileLayer",},
     {"instances":[
@@ -897,7 +895,6 @@
     {"name":"inst_35339AB3","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_7BCD4197","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_77FBFCDB","path":"rooms/Stage_1/Stage_1.yy",},
-    {"name":"inst_3B377ECB","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_252FA7FE","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_17FF9DF5","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_7743C540","path":"rooms/Stage_1/Stage_1.yy",},

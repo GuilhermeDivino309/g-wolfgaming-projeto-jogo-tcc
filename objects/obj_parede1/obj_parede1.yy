@@ -4,7 +4,7 @@
     "path": "sprites/spr_parede1/spr_parede1.yy",
   },
   "solid": true,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

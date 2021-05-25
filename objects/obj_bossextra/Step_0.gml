@@ -8,3 +8,15 @@ if (life <= 0){ //ao a vida ser zerada o inimigo desaparece
 	instance_destroy();
 
 }
+
+cooldown -= 0.1;
+
+if cooldown <= 0
+{
+	cooldown = 9;
+	with instance_create_layer(x,y,"attacks",obj_blasterboss)
+	{
+		direction = point_direction(x, y, obj_colisao.x, obj_colisao.y)
+		image_angle = direction;
+	}
+}

@@ -1,0 +1,1 @@
+instance_destroy(); //ao coledir com a parede se destroi

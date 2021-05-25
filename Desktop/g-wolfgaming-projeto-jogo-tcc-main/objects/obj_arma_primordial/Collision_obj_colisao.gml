@@ -1,0 +1,1 @@
+other.arma = id;

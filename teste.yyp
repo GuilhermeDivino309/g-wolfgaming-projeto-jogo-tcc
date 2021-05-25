@@ -44,6 +44,7 @@
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"order":2,},
     {"id":{"name":"Stage_3","path":"rooms/Stage_3/Stage_3.yy",},"order":4,},
     {"id":{"name":"spr_bala_ini","path":"sprites/spr_bala_ini/spr_bala_ini.yy",},"order":3,},
+    {"id":{"name":"snd_tiro","path":"sounds/snd_tiro/snd_tiro.yy",},"order":1,},
     {"id":{"name":"spr_cone_luz","path":"sprites/spr_cone_luz/spr_cone_luz.yy",},"order":11,},
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},"order":0,},
     {"id":{"name":"obj_orbe_luz","path":"objects/obj_orbe_luz/obj_orbe_luz.yy",},"order":8,},

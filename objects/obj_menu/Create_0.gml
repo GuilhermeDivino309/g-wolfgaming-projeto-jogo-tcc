@@ -16,4 +16,4 @@ buttons = array_length(button);
 menu_index = 0;
 last_selected = 0;
 #endregion
-
+audio_play_sound(snd_menu, 5, false);

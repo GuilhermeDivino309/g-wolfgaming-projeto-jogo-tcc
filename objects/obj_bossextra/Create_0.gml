@@ -1,5 +1,5 @@
 life = 250; //vida do inimigo
 dano = false; //instancia de dano
-spd= 5; //velocidade
+spd= 4; //velocidade
 alarm[0] = 5;
-cooldown = 20;
+cooldown = 10;

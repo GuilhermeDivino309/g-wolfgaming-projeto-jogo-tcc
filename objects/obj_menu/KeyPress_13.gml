@@ -5,7 +5,7 @@ switch (menu_index) {
 			audio_stop_sound(snd_menu);
 		}
 	break;
-	
+		
 	case 1:
 		room_goto(Menu1)	
 	break;

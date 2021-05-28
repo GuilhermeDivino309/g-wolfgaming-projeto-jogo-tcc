@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "objetos de colisao",
-    "path": "folders/Sprites/objetos de colisao.yy",
+    "name": "Objetos de Colisão",
+    "path": "folders/Sprites/Objetos de Colisão.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_player_Dano",

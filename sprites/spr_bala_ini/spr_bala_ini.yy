@@ -117,8 +117,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Sprites/inimigos.yy",
+    "name": "Ataques",
+    "path": "folders/Sprites/Inimigos/Ataques.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bala_ini",

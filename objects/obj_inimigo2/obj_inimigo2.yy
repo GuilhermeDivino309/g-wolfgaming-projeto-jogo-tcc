@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Objects/inimigos.yy",
+    "name": "Comuns",
+    "path": "folders/Objects/Inimigos/Comuns.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_inimigo2",

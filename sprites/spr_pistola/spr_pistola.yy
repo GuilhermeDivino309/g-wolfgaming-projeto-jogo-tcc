@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "armas",
-    "path": "folders/Sprites/armas.yy",
+    "name": "Modelos",
+    "path": "folders/Sprites/Armas/Modelos.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_pistola",

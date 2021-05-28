@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Objects/inimigos.yy",
+    "name": "Bosses",
+    "path": "folders/Objects/Inimigos/Bosses.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_inimigo_boss",

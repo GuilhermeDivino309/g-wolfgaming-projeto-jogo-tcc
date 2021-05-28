@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_orbe_luz",
-    "path": "sprites/spr_orbe_luz/spr_orbe_luz.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -20,15 +17,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "cenario",
-    "path": "folders/Objects/cenario.yy",
+    "name": "Efeitos",
+    "path": "folders/Objects/Cenário/Efeitos.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_orbe_luz",
+  "name": "obj_light_render",
   "tags": [],
   "resourceType": "GMObject",
 }

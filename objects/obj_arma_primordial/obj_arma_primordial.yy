@@ -34,8 +34,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "armas",
-    "path": "folders/Objects/armas.yy",
+    "name": "Modelos",
+    "path": "folders/Objects/Armas/Modelos.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_arma_primordial",

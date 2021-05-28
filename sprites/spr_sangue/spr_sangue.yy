@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenario",
-    "path": "folders/Sprites/cenario.yy",
+    "name": "Móveis",
+    "path": "folders/Sprites/Cenário/Móveis.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_sangue",

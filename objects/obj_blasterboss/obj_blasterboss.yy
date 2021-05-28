@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "blaster",
-    "path": "folders/Objects/inimigos/blaster.yy",
+    "path": "folders/Objects/Inimigos/blaster.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_blasterboss",

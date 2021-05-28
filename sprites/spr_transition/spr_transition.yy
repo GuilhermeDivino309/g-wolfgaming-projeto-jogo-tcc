@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenario",
-    "path": "folders/Sprites/cenario.yy",
+    "name": "Efeitos",
+    "path": "folders/Sprites/Cenário/Efeitos.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_transition",

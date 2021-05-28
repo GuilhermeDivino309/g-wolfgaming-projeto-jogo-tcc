@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "Efeitos",
+    "path": "folders/Objects/Cenário/Efeitos.yy",
   },
   "resourceVersion": "1.0",
   "name": "Object27",

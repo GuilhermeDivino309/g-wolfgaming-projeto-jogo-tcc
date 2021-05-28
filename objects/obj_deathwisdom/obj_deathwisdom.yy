@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "menu",
-    "path": "folders/Objects/menu.yy",
+    "name": "Logo",
+    "path": "folders/Objects/Menu/Logo.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_deathwisdom",

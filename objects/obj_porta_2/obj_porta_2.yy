@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "cenario",
-    "path": "folders/Objects/cenario.yy",
+    "name": "Móveis",
+    "path": "folders/Objects/Cenário/Móveis.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_porta_2",

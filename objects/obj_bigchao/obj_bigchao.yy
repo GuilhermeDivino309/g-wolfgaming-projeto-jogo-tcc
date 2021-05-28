@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "cenario",
-    "path": "folders/Objects/cenario.yy",
+    "name": "Construções",
+    "path": "folders/Objects/Cenário/Construções.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_bigchao",

@@ -31,8 +31,8 @@
     {"propertyId":{"name":"bala","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"obj_bala","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "armas",
-    "path": "folders/Objects/armas.yy",
+    "name": "Modelos",
+    "path": "folders/Objects/Armas/Modelos.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_pistola",

@@ -81,8 +81,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Sprites/inimigos.yy",
+    "name": "Comuns",
+    "path": "folders/Sprites/Inimigos/Comuns.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_inimigo",

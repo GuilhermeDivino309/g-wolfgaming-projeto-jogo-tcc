@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "armas",
-    "path": "folders/Objects/armas.yy",
+    "name": "Projéteis",
+    "path": "folders/Objects/Armas/Projéteis.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_bala",

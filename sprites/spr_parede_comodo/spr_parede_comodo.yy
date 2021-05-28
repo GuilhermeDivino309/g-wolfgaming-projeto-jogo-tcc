@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenario",
-    "path": "folders/Sprites/cenario.yy",
+    "name": "Construções",
+    "path": "folders/Sprites/Cenário/Construções.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_parede_comodo",

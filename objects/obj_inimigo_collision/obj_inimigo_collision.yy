@@ -21,8 +21,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "objetos de colisao",
-    "path": "folders/Objects/objetos de colisao.yy",
+    "name": "Objetos de Colisão",
+    "path": "folders/Objects/Objetos de Colisão.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_inimigo_collision",

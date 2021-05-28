@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "player",
-    "path": "folders/Objects/player.yy",
+    "name": "Jogador",
+    "path": "folders/Objects/Jogador.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_colisao",

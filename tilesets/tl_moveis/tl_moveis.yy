@@ -1,9 +1,5 @@
 {
-  "name": "tl_moveis",
-  "spriteId": {
-    "name": "spr_tile",
-    "path": "sprites/spr_tile/spr_tile.yy",
-  },
+  "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
   "tilexoff": 0,
@@ -121,6 +117,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tl_moveis",
   "tags": [],
   "resourceType": "GMTileSet",
 }

@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "player",
-    "path": "folders/Sprites/player.yy",
+    "name": "Jogador",
+    "path": "folders/Sprites/Jogador.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_colisao",

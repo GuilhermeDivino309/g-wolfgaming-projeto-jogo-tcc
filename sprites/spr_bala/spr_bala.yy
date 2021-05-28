@@ -377,8 +377,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "armas",
-    "path": "folders/Sprites/armas.yy",
+    "name": "Projéteis",
+    "path": "folders/Sprites/Armas/Projéteis.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bala",

@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "menu",
-    "path": "folders/Objects/menu.yy",
+    "name": "Efeitos",
+    "path": "folders/Objects/Menu/Efeitos.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_menu1",

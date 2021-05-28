@@ -261,8 +261,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "cenario",
-    "path": "folders/Sprites/cenario.yy",
+    "name": "Menu",
+    "path": "folders/Sprites/Menu.yy",
   },
   "resourceVersion": "1.0",
   "name": "DeathWisdom",

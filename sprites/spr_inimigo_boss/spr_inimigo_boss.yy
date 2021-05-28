@@ -212,8 +212,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Sprites/inimigos.yy",
+    "name": "Bosses",
+    "path": "folders/Sprites/Inimigos/Bosses.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_inimigo_boss",

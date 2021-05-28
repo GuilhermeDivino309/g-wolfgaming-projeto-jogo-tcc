@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "inimigos",
-    "path": "folders/Objects/inimigos.yy",
+    "name": "Ataques",
+    "path": "folders/Objects/Inimigos/Ataques.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_bala_ini",

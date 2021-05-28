@@ -6,10 +6,11 @@ button_h = 32;
 
 #region botões do menu
 button[0] = "Fase 1"
-button[1] = "Fase 2"
-button[2] = "Fase 3"
-button[3] = "Fase extra"
-button[4] = "voltar"
+button[1] = "Fase 1(2)"
+button[2] = "Fase 2"
+button[3] = "Fase 3"
+button[4] = "Fase extra"
+button[5] = "voltar"
 buttons = array_length(button);
 #endregion
 

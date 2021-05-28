@@ -31,6 +31,29 @@ if (place_meeting(x , y + velv, obj_parede)) // definindo colisao vertical
 	
 }
 
+//________________________________________________________//
+
+if (place_meeting(x + velh, y, obj_porta_2)) // definindo colisao horizontal
+{
+	while(!place_meeting(x + sign(velh), y, obj_porta_2))
+	{
+		x += sign(velh)
+	}
+	velh = 0;
+	
+}
+
+if (place_meeting(x , y + velv, obj_porta_2)) // definindo colisao vertical
+{
+	while(!place_meeting(x , y + sign(velv), obj_porta_2))
+	{
+		y += sign(velv)
+	}
+	velv = 0;
+	
+}
+//_______________________________________________________//
+
 x += velh;
 y += velv;
                                

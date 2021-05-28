@@ -8,8 +8,8 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 30,
-  "bbox_top": 0,
+  "bbox_right": 62,
+  "bbox_top": 4,
   "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"68955b08-1c95-48ff-a2d8-2e221ddd2c97","path":"sprites/spr_porta/spr_porta.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"68955b08-1c95-48ff-a2d8-2e221ddd2c97","path":"sprites/spr_porta/spr_porta.yy",},"LayerId":{"name":"4775d175-c43e-42ec-b37b-fbeb4168221f","path":"sprites/spr_porta/spr_porta.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_porta","path":"sprites/spr_porta/spr_porta.yy",},"resourceVersion":"1.0","name":"68955b08-1c95-48ff-a2d8-2e221ddd2c97","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1eaef623-fb4b-4880-a9c3-766c8b254270","path":"sprites/spr_buraco/spr_buraco.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1eaef623-fb4b-4880-a9c3-766c8b254270","path":"sprites/spr_buraco/spr_buraco.yy",},"LayerId":{"name":"8a1cac55-4b05-45b6-bc4b-6ea0be95fd60","path":"sprites/spr_buraco/spr_buraco.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_buraco","path":"sprites/spr_buraco/spr_buraco.yy",},"resourceVersion":"1.0","name":"1eaef623-fb4b-4880-a9c3-766c8b254270","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_porta","path":"sprites/spr_porta/spr_porta.yy",},
+    "spriteId": {"name":"spr_buraco","path":"sprites/spr_buraco/spr_buraco.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ac801e2c-52db-4e1e-ad13-e83adf2b9aad","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"68955b08-1c95-48ff-a2d8-2e221ddd2c97","path":"sprites/spr_porta/spr_porta.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"eee96949-8d6b-4ef0-a1e8-25b5dad43b31","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1eaef623-fb4b-4880-a9c3-766c8b254270","path":"sprites/spr_buraco/spr_buraco.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_porta","path":"sprites/spr_porta/spr_porta.yy",},
+    "parent": {"name":"spr_buraco","path":"sprites/spr_buraco/spr_buraco.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_porta",
+    "name": "spr_buraco",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4775d175-c43e-42ec-b37b-fbeb4168221f","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8a1cac55-4b05-45b6-bc4b-6ea0be95fd60","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Cenário/Móveis.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_porta",
+  "name": "spr_buraco",
   "tags": [],
   "resourceType": "GMSprite",
 }

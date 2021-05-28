@@ -1,1 +1,1 @@
-lightning_suface = -1;
+lightning_suface = -1; //transparencia do fundo

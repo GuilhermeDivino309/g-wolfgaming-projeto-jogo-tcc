@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_chave",
+    "path": "sprites/spr_chave/spr_chave.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_arma_primordial",
+    "path": "objects/obj_arma_primordial/obj_arma_primordial.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_porta_2","path":"objects/obj_porta_2/obj_porta_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"pausa_do_tiro","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"bala","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"obj_bala","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"velocidade","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"0.1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Modelos",
+    "path": "folders/Objects/Armas/Modelos.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_chave",
+  "tags": [],
+  "resourceType": "GMObject",
+}

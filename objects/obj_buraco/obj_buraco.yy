@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_porta",
-    "path": "sprites/spr_porta/spr_porta.yy",
+    "name": "spr_buraco",
+    "path": "sprites/spr_buraco/spr_buraco.yy",
   },
   "solid": false,
   "visible": true,
@@ -19,15 +19,8 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
-  ],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_chave","path":"objects/obj_chave/obj_chave.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "physicsShapePoints": [],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -35,7 +28,7 @@
     "path": "folders/Objects/Cenário/Móveis.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_porta_2",
+  "name": "obj_buraco",
   "tags": [],
   "resourceType": "GMObject",
 }

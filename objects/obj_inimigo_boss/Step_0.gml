@@ -5,5 +5,7 @@ mp_potential_step_object(obj_colisao.x, obj_colisao.y, spd, obj_inimigo_collisio
 image_angle = point_direction(x, y, obj_colisao.x, obj_colisao.y) //define para onde o inimigo esteja olhando
 
 if (life <= 0){
+	instance_create_layer(x,y,"player", obj_chave)
 	instance_destroy();
 }
+

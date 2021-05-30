@@ -1,6 +1,6 @@
 {
   "option_windows_display_name": "DeathWisdom",
-  "option_windows_executable_name": "${death_wisdom}.exe",
+  "option_windows_executable_name": "death_wisdom.exe",
   "option_windows_version": "1.0.0.0",
   "option_windows_company_info": "g_wolfgaming",
   "option_windows_product_info": "Criado em GameMaker2",

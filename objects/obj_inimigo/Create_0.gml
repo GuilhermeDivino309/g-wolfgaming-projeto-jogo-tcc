@@ -1,3 +1,3 @@
-life = 7; //vida do inimigo
+life = 4; //vida do inimigo
 dano = false; //instancia de dano
-spd= 3; //velocidade
+spd= 2; //velocidade

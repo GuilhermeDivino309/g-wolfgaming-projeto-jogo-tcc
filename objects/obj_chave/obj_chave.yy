@@ -29,7 +29,7 @@
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"pausa_do_tiro","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"bala","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"obj_bala","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"bala","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"obj_nothing","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"velocidade","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"objectId":{"name":"obj_arma_primordial","path":"objects/obj_arma_primordial/obj_arma_primordial.yy",},"value":"0.1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {

@@ -1,0 +1,1 @@
+image_angle = point_direction(x, y, obj_colisao.x, obj_colisao.y)

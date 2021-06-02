@@ -10,7 +10,10 @@
     {"id":{"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},"order":3,},
     {"id":{"name":"obj_bala_ini","path":"objects/obj_bala_ini/obj_bala_ini.yy",},"order":0,},
     {"id":{"name":"spr_cadeira","path":"sprites/spr_cadeira/spr_cadeira.yy",},"order":0,},
+<<<<<<< HEAD
     {"id":{"name":"spr_olho","path":"sprites/spr_olho/spr_olho.yy",},"order":11,},
+=======
+>>>>>>> main
     {"id":{"name":"obj_nothing","path":"objects/obj_nothing/obj_nothing.yy",},"order":1,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":1,},
     {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},"order":4,},
@@ -23,7 +26,10 @@
     {"id":{"name":"obj_mesa","path":"objects/obj_mesa/obj_mesa.yy",},"order":2,},
     {"id":{"name":"DeathWisdom","path":"sprites/DeathWisdom/DeathWisdom.yy",},"order":0,},
     {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},"order":3,},
+<<<<<<< HEAD
     {"id":{"name":"spr_invocacao","path":"sprites/spr_invocacao/spr_invocacao.yy",},"order":10,},
+=======
+>>>>>>> main
     {"id":{"name":"obj_caixa","path":"objects/obj_caixa/obj_caixa.yy",},"order":7,},
     {"id":{"name":"Stage_4","path":"rooms/Stage_4/Stage_4.yy",},"order":5,},
     {"id":{"name":"obj_bigparedeH","path":"objects/obj_bigparedeH/obj_bigparedeH.yy",},"order":7,},

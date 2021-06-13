@@ -74,6 +74,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_cama","path":"objects/obj_cama/obj_cama.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.6,"scaleY":4.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1835.0,"y":1407.0,"resourceVersion":"1.0","name":"inst_69D5093E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_mesinha","path":"objects/obj_mesinha/obj_mesinha.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.133333,"scaleY":4.9,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1749.0,"y":1407.0,"resourceVersion":"1.0","name":"inst_5720B634","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_mesa","path":"objects/obj_mesa/obj_mesa.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.2,"scaleY":4.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1696.0,"y":1536.0,"resourceVersion":"1.0","name":"inst_626EB426","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_caveira","path":"objects/obj_caveira/obj_caveira.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.234375,"scaleY":1.234375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1504.0,"y":1696.0,"resourceVersion":"1.0","name":"inst_6F57208D","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":399,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"moveis","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_parede1","path":"objects/obj_parede1/obj_parede1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0625,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1856.0,"y":1376.0,"resourceVersion":"1.0","name":"inst_1939B02","tags":[],"resourceType":"GMRInstance",},
@@ -1676,6 +1677,7 @@
     {"name":"inst_527D2CCC","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_2D3EE5E6","path":"rooms/Stage_1/Stage_1.yy",},
     {"name":"inst_57A6D1BD","path":"rooms/Stage_1/Stage_1.yy",},
+    {"name":"inst_6F57208D","path":"rooms/Stage_1/Stage_1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

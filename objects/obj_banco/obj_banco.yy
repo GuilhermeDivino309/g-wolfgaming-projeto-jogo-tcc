@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_caveira",
-    "path": "sprites/spr_caveira/spr_caveira.yy",
+    "name": "spr_banco",
+    "path": "sprites/spr_banco/spr_banco.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Cenário/Móveis.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_caveira",
+  "name": "obj_banco",
   "tags": [],
   "resourceType": "GMObject",
 }

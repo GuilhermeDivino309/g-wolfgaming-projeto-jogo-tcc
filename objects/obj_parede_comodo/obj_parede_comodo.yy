@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_parede_comodo",
-    "path": "sprites/spr_parede_comodo/spr_parede_comodo.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

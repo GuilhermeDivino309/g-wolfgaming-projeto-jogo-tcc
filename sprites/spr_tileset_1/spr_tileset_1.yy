@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Tilesets",
+    "path": "folders/Sprites/Cenário/Móveis/Tilesets.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_tileset_1",

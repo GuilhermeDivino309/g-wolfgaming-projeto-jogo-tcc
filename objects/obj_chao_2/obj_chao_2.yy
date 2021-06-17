@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_chao_2",
-    "path": "sprites/spr_chao_2/spr_chao_2.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

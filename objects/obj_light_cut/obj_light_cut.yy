@@ -28,8 +28,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Efeitos",
-    "path": "folders/Objects/Cenário/Efeitos.yy",
+    "name": "Iluminação",
+    "path": "folders/Objects/Cenário/Efeitos/Iluminação.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_light_cut",

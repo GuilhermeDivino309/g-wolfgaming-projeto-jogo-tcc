@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Efeitos",
-    "path": "folders/Objects/Cenário/Efeitos.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Cenário/Efeitos/Misc.yy",
   },
   "resourceVersion": "1.0",
   "name": "Object27",

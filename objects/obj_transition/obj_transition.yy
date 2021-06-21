@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Efeitos",
-    "path": "folders/Objects/Cenário/Efeitos.yy",
+    "name": "Transição",
+    "path": "folders/Objects/Cenário/Efeitos/Transição.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_transition",

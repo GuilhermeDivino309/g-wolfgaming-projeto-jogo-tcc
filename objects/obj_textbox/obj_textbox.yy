@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dialogos",
-    "path": "folders/Objects/Cenário/Efeitos/Dialogos.yy",
+    "name": "Objetos de Dialogo",
+    "path": "folders/Objects/Cenário/Efeitos/Dialogos/Objetos de Dialogo.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_textbox",

@@ -1,3 +1,9 @@
-life = 70; //vida do inimigo
+life = 60; //vida do inimigo
 dano = false; //instancia de dano
-spd= 8; //velocidade
+spd= 5.8; //velocidade
+
+audio_play_sound(snd_zumbi_boss,5,1);
+
+
+
+

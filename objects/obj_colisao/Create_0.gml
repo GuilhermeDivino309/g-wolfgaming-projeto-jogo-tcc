@@ -1,4 +1,4 @@
-vel = 8; //velocidade do personagem
+vel = 5; //velocidade do personagem
 velh = 0; //velocidade horizontal
 velv = 0; //velocidade vertical
 

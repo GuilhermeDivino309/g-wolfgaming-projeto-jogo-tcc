@@ -7,3 +7,5 @@ image_angle = point_direction(x, y, obj_colisao.x, obj_colisao.y) //define para 
 if (life <= 0){
 	instance_destroy();
 }
+
+

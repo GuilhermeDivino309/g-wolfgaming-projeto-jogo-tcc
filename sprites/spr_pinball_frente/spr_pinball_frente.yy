@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Cenário",
-    "path": "folders/Sprites/Cenário.yy",
+    "name": "Móveis",
+    "path": "folders/Sprites/Cenário/Móveis.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_pinball_frente",

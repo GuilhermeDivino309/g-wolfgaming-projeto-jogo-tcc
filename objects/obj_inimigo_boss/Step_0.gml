@@ -7,5 +7,6 @@ image_angle = point_direction(x, y, obj_colisao.x, obj_colisao.y) //define para 
 if (life <= 0){
 	instance_create_layer(x,y,"player", obj_chave)
 	instance_destroy();
+	audio_stop_sound(snd_zumbi_boss);
 }
 
